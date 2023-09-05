@@ -1,0 +1,34 @@
+{
+  "hotels": [
+    {
+      "name": "Hotel 1",
+      "description": "Descripción del Hotel 1",
+      "id": 1,
+      "img": "/img/hotel1.jpeg"
+    },
+    {
+      "name": "Hotel 2",
+      "description": "Descripción del Hotel 2",
+      "id": 2,
+      "img": "/img/hotel2.jpeg"
+    },
+    {
+      "name": "Hotel 3",
+      "description": "Descripción del Hotel 3",
+      "id": 3,
+      "img": "/img/hotel3.jpeg"
+    },
+    {
+      "name": "Hotel 4",
+      "description": "Descripción del Hotel 4",
+      "id": 4,
+      "img": "/img/hotel4.jpeg"
+    },
+    {
+      "name": "Hotel 5",
+      "description": "Descripción del Hotel 5",
+      "id": 5,
+      "img": "/img/hotel5.jpeg"
+    }
+  ]
+}
